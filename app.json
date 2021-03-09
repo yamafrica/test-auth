@@ -1,0 +1,12 @@
+{
+  "name": "authrealm",
+  "displayName": "authrealm",
+  "expo": {
+    "name": "authrealm",
+    "slug": "authrealm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
